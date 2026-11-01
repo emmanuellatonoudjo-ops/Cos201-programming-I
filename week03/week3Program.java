@@ -1,7 +1,11 @@
-public class FirstProgram {
-    public static void main(String[] args) {
-        System.out.println("Welcome to COS 201!");
-        System.out.println("I am learning computer programming.");
-        System.out.println("Programming begins with problem-solving.");
-    }
-}
+Student Name: Tonoudjo Emmanuella Ilerioluwa
+Matriculation Number: [25/16799]
+Programme: Software Engineering
+Course: COS 201 — Computer Programming I
+Week: 3
+GitHub Repository URL: [Your GitHub Repository Link]
+
+Programs submitted:
+SimpleCalculator.java
+AverageCalculator.java
+ItemCost.java
