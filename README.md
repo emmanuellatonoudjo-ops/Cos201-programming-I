@@ -1,7 +1,7 @@
 # COS 201 - Computer Programming I
 ## Week 1: Introduction to Programming and Problem-Solving
 ### Student Details
-- Name: Your Full Name
+- Name: Tonoudjo Emmanuella
 - Programme: SEN
 - Course Code: COS 201
 ### Practical Exercise
